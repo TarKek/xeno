@@ -8,10 +8,13 @@ Xeno - это минималистичная операционная систе
 
 ```bash
 fasm boot.asm boot.sec
+```
 ```bash
 fasm second.asm second.sec
+
 ```bash
 fasm kernel.asm kernel.hex
+
 ```bash
 fasm image.asm image.img
 
